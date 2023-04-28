@@ -54,23 +54,23 @@ Pour faciliter la gestion des graphes, nous avons utiliser *[Windowbuilder](http
 On trouve dans cette fenêtre 17 boutons:
 | Non de bouton| Rôle  |
 |--|--|
-| Importer Matrice |  |
-| Importer FsAps/D |  |
-|Afficher Matrice  |  |
-| Afficher FsApsD |  |
-| Afficher Graphe |  |
-|Afficher Distance  |  |
-| Afficher Rang |  |
-| Afficher Matrice Dijkstra |  |
-| Fortement Connexe |  |
-| Ajouter Sommet |  |
-| Supprimer Sommet |  |
-| Ajouter Arc |  |
-| Supprimer Arc |  |
-| Retour |  |
-| Aide |  |
-| Non Value |  |
-| Value |  |
+| Importer Matrice | importe une matrice sous forme fichier.txt |
+| Importer FsAps/D | importe FsAps/D sous forme fichier.txt  |
+|Afficher Matrice  | Affiche la matrice importé auparavant |
+| Afficher FsApsD | Affiche FsAps/D importé auparavant |
+| Afficher Graphe | Affiche graphe de la matrice importé  |
+|Afficher Distance  | Affiche les entre sommets |
+| Afficher Rang | Affiche rang |
+| Afficher Matrice Dijkstra | Affiche la matrice de Dijkstra(graphe orienté valué) |
+| Fortement Connexe | Fortement Connexe selon Tarjan |
+| Ajouter Sommet | Au clic increment le nombre de sommet |
+| Supprimer Sommet | après avoir choisir, supprime le sommet choisir |
+| Ajouter Arc | Après avoir entrer source et destination ajoute l'arc  |
+| Supprimer Arc | Supprimer Arc |
+| Retour | Retour |
+| Aide | Aide |
+| Non Value | Interface des graphe orienté non valué |
+| Value | Interface des graphe orienté valué |
 
 
 
