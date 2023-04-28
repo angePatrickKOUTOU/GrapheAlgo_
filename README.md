@@ -7,9 +7,8 @@ Pour la realisation de ce projet nous avons utilisé les Bibliothèques suivante
 
 ## Architecture
 
-### Diagramme de Classe
-
-    ![](https://github.com/angePatrickKOUTOU/GrapheAlgo_/blob/master/Diagramme%20de%20classe.png)
+## Diagramme de Classe
+![image Diagramme](https://github.com/angePatrickKOUTOU/GrapheAlgo_/blob/master/Diagramme%20de%20classe.png)
 
 ### Algorithmes Implémentés
 1. File des successeurs vers Matrice d’adjacence 
