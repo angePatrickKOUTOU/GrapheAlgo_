@@ -64,7 +64,7 @@ public class MainFraim extends JFrame {
 		JButton btnNewButton = new JButton("Aide");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				try { Desktop.getDesktop().browse(new URL("https://github.com/AllKings/projet-graph-algo").toURI()); } catch (Exception e1) {} 
+				try { Desktop.getDesktop().browse(new URL("https://github.com/angePatrickKOUTOU/GrapheAlgo_").toURI()); } catch (Exception e1) {} 
 			}
 		});
 		btnNewButton.setBounds(105, 288, 85, 21);
