@@ -24,9 +24,9 @@ Pour la rialisation de ce projet nous avons utulisees les Bibliothèques suivant
 9. Prufer (Codage et décodage)
 
 ### Type De Graphe
-1. `Graphe_Non_Orienter`
-2. `Graphe_Orienter_value`
-3. `Graphe_Orienter_non_value`
+1.  `Graphe_Non_Orienter`
+2.  `Graphe_Orienter_value`
+3.  `Graphe_Orienter_non_value`
 4. Arbre
 ### Classes
  1. La classe   `Graphe_orienter_value`
