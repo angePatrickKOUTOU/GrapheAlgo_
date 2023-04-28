@@ -76,14 +76,14 @@ On trouve dans cette fenêtre 17 boutons:
 
 
 #### Gestion_Graphe_Nom_Orienter
-Dans 
+
 #### Gestion_Arbre
 
 
 
 
 ### Scénario d'exécution
-1.
-2.
-3.
-4.
+1. `Run` le projet sous eclipse
+2.  Choisir 2 pour `graphique`
+3.  Choisir `Graphe_orienter_value` ou `Gestion_Graphe_Nom_Orienter`
+4.  Importer ou créer une matrice
