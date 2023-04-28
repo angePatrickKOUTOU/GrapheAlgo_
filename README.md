@@ -1,11 +1,14 @@
 
 # GrapheAlgo
 ## Bibliothèques Utilisées
-Pour la rialisation de ce projet nous avons utulisees les Bibliothèques suivant:
+Pour la realisation de ce projet nous avons utilisé les Bibliothèques suivantes:
 1. [JGraphX](https://github.com/jgraph/jgraphx)
 2. [JGrapht 1.5.1](https://github.com/jgrapht/jgrapht)
+
 ## Architecture
+
 ### Diagramme de Classe
+    ![image Diagramme](https://github.com/jgraph/jgraphx)
 
 ### Algorithmes Implémentés
 1. File des successeurs vers Matrice d’adjacence 
